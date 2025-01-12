@@ -1,3 +1,4 @@
+'use client'
 import { useState } from "react";
 import ProductDisplay from "../chackout/page";
 import { DiVim } from "react-icons/di";
